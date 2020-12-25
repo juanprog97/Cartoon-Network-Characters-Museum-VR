@@ -125,7 +125,9 @@ PlayerSettings:
     16:9: 1
     Others: 1
   bundleVersion: 0.1
-  preloadedAssets: []
+  preloadedAssets:
+  - {fileID: 11400000, guid: 69f148b72d0f19b4c85b5863aa03603f, type: 2}
+  - {fileID: -2253766040271544014, guid: b024f4477fe182c4984a33a5be5d0897, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -133,7 +135,7 @@ PlayerSettings:
   xboxOneEnable7thCore: 1
   vrSettings:
     cardboard:
-      depthFormat: 1
+      depthFormat: 0
       enableTransitionView: 0
     daydream:
       depthFormat: 0

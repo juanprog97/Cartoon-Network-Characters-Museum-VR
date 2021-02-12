@@ -10,6 +10,10 @@ Version Unity  2019.4.13f1.
 + Old Television PBR
 + VR Samples Unity
 
+### V2 Teleporting
+
+v2 implements the possibility of teleportation at various points in the scenes
+
 ## Capture
 
 ![Screen1](https://github.com/juanprog97/Cartoon-Network-Characters-Museum-VR/blob/master/Screenshots/screen1.png?raw=true)

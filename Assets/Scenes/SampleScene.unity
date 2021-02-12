@@ -1039,7 +1039,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc95074bccf5bcc44b1acf384d0c8eb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_SelectionRadial: {fileID: 0}
+  m_SelectionRadial: {fileID: 1884232812}
   m_InteractiveItem: {fileID: 0}
   m_RequireClick: 0
 --- !u!114 &830909160
@@ -1602,6 +1602,18 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1076795698}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1114040582 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 11491538, guid: ccf8c8cc05aad7b40a8deb4f73296da4,
+    type: 3}
+  m_PrefabInstance: {fileID: 1884232810}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1154002016
 GameObject:
   m_ObjectHideFlags: 0
@@ -1893,7 +1905,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc95074bccf5bcc44b1acf384d0c8eb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_SelectionRadial: {fileID: 0}
+  m_SelectionRadial: {fileID: 1884232812}
   m_InteractiveItem: {fileID: 0}
   m_RequireClick: 0
 --- !u!114 &1172004856
@@ -2110,7 +2122,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc95074bccf5bcc44b1acf384d0c8eb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_SelectionRadial: {fileID: 0}
+  m_SelectionRadial: {fileID: 1884232812}
   m_InteractiveItem: {fileID: 0}
   m_RequireClick: 0
 --- !u!114 &1335394577
@@ -3119,7 +3131,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc95074bccf5bcc44b1acf384d0c8eb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_SelectionRadial: {fileID: 0}
+  m_SelectionRadial: {fileID: 1884232812}
   m_InteractiveItem: {fileID: 0}
   m_RequireClick: 0
 --- !u!114 &1614338252
@@ -3480,7 +3492,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc95074bccf5bcc44b1acf384d0c8eb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_SelectionRadial: {fileID: 0}
+  m_SelectionRadial: {fileID: 1884232812}
   m_InteractiveItem: {fileID: 0}
   m_RequireClick: 0
 --- !u!114 &1815592554
@@ -3696,6 +3708,41 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ccf8c8cc05aad7b40a8deb4f73296da4, type: 3}
+--- !u!1 &1884232811 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 104168, guid: ccf8c8cc05aad7b40a8deb4f73296da4,
+    type: 3}
+  m_PrefabInstance: {fileID: 1884232810}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1884232812
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1884232811}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5193b7f8f1b7f1145b80367daa1894ea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SelectionDuration: 1
+  m_HideOnStart: 1
+  m_Selection: {fileID: 1114040582}
+  m_VRInput: {fileID: 1884232819}
+  requireClick: 0
+--- !u!114 &1884232819 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 11427250, guid: ccf8c8cc05aad7b40a8deb4f73296da4,
+    type: 3}
+  m_PrefabInstance: {fileID: 1884232810}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1884232811}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8902ef04f323e444b98d2e4fd80a56ab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1897348307
 GameObject:
   m_ObjectHideFlags: 0
@@ -3817,7 +3864,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc95074bccf5bcc44b1acf384d0c8eb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_SelectionRadial: {fileID: 0}
+  m_SelectionRadial: {fileID: 1884232812}
   m_InteractiveItem: {fileID: 0}
   m_RequireClick: 0
 --- !u!114 &1897348314

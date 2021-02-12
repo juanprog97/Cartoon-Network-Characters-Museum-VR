@@ -15,7 +15,7 @@ Version Unity  2019.4.13f1.
 ![Screen1](https://github.com/juanprog97/Cartoon-Network-Characters-Museum-VR/blob/master/Screenshots/screen1.png?raw=true)
 ![Screen2](https://github.com/juanprog97/Cartoon-Network-Characters-Museum-VR/blob/master/Screenshots/screen2.png?raw=true)
 ![Screen3](https://github.com/juanprog97/Cartoon-Network-Characters-Museum-VR/blob/master/Screenshots/screen3.png?raw=true)
-![Screen4](https://github.com/juanprog97/Cartoon-Network-Characters-Museum-VR/blob/master/Screenshots/screen4.png?raw=true)
+![Screen4](https://github.com/juanprog97/Cartoon-Network-Characters-Museum-VR/blob/master/Screenshots/Screen4.png?raw=true)
 
 
 ## Video

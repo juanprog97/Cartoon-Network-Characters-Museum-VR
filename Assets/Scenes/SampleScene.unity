@@ -226,6 +226,12 @@ Camera:
     type: 3}
   m_PrefabInstance: {fileID: 1884232810}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &259715463 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5015262719800355922, guid: 2e20a9d5d499bdb47989d3e52387e91b,
+    type: 3}
+  m_PrefabInstance: {fileID: 730137671}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &346233161
 GameObject:
   m_ObjectHideFlags: 0
@@ -752,6 +758,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TV-box
       objectReference: {fileID: 0}
+    - target: {fileID: 1385399857301454, guid: 2e20a9d5d499bdb47989d3e52387e91b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4596888441288056, guid: 2e20a9d5d499bdb47989d3e52387e91b, type: 3}
       propertyPath: m_LocalPosition.x
       value: 43.44
@@ -808,6 +818,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 3.4199352
       objectReference: {fileID: 0}
+    - target: {fileID: 1119211494182965083, guid: 2e20a9d5d499bdb47989d3e52387e91b,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1386604616546526149, guid: 2e20a9d5d499bdb47989d3e52387e91b,
         type: 3}
       propertyPath: m_VideoClip
@@ -818,6 +833,26 @@ PrefabInstance:
       propertyPath: m_PlayOnAwake
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1386604616546526149, guid: 2e20a9d5d499bdb47989d3e52387e91b,
+        type: 3}
+      propertyPath: m_AudioOutputMode
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1460346941454470298, guid: 2e20a9d5d499bdb47989d3e52387e91b,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.50954014
+      objectReference: {fileID: 0}
+    - target: {fileID: 1460346941454470298, guid: 2e20a9d5d499bdb47989d3e52387e91b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.025
+      objectReference: {fileID: 0}
+    - target: {fileID: 5015262719800355922, guid: 2e20a9d5d499bdb47989d3e52387e91b,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2e20a9d5d499bdb47989d3e52387e91b, type: 3}
 --- !u!4 &730137672 stripped
@@ -826,6 +861,60 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 730137671}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &730137673 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1119211494182965083, guid: 2e20a9d5d499bdb47989d3e52387e91b,
+    type: 3}
+  m_PrefabInstance: {fileID: 730137671}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &730137674 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1385399857301454, guid: 2e20a9d5d499bdb47989d3e52387e91b,
+    type: 3}
+  m_PrefabInstance: {fileID: 730137671}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &730137675
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 730137674}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd386a4356bafeb4bb0eb1a2cd6c976f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_TvImage: {fileID: 730137673}
+  light_AreaLight: {fileID: 1418400066}
+  m_videoTv: {fileID: 259715463}
+--- !u!114 &730137676
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 730137674}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fea6f8eea666334aaf9869ad8f7bcda, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &730137677
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 730137674}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc95074bccf5bcc44b1acf384d0c8eb3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SelectionRadial: {fileID: 1884232812}
+  m_InteractiveItem: {fileID: 730137676}
+  m_RequireClick: 0
 --- !u!1 &759480561
 GameObject:
   m_ObjectHideFlags: 0

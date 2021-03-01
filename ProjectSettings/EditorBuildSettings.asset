@@ -8,6 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/VRSampleScenes/Scenes/Examples/InteractiveItem.unity
+    guid: bd5d32b24f055cf4886a262429d496bf
   m_configObjects:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 4593083973515dc43b6594106d3cc7a7,
       type: 2}

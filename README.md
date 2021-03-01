@@ -1,18 +1,18 @@
-# Cartoon-Network-Characters-Museum-VR
+# Cartoon-Network-Characters-Museum-VR.
 VR Environment that containt my characters cartoon of childhood. adapted to be viewed through a Mobile and HMD Carboard.
 
 Version Unity  2019.4.13f1.
 
-### Materials from Asset Stores(Free)
+### Materials from Asset Stores(Free).
 
 + 3DFRK  painting picture
 + Sky Box SpaceSkies
 + Old Television PBR
 + VR Samples Unity
 
-### V2 Teleporting
+### V2 Teleporting and Interaction Object.
 
-v2 implements the possibility of teleportation at various points in the scenes
+v2 implements the possibility of teleportation at various points in the scenes and turn on/off TV.
 
 ## Capture
 
@@ -24,9 +24,9 @@ v2 implements the possibility of teleportation at various points in the scenes
 
 ## Video
 
-### V1 
+### V1.
 [![Cartoon-Network-Characters-Museum](https://img.youtube.com/vi/rFG6_fW5kZo/0.jpg)](https://www.youtube.com/watch?v=rFG6_fW5kZo "Cartoon-Network-Characters-Museum V1")
-### V2
+### V2.
 [![Cartoon-Network-Characters-Museum](https://img.youtube.com/vi/e99sU3hijCA/0.jpg)](https://www.youtube.com/watch?v=e99sU3hijCA "Cartoon-Network-Characters-Museum V2 Teleporting")
 
 

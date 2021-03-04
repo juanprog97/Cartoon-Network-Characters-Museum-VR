@@ -10,9 +10,9 @@ Version Unity  2019.4.13f1.
 + Old Television PBR
 + VR Samples Unity
 
-### V2 Teleporting and Interaction Object.
+### V2 Teleporting,  Interaction Object and User Interface.
 
-v2 implements the possibility of teleportation at various points in the scenes and turn on/off TV.
+v2 implements the possibility of teleportation at various points in the scenes and turn on/off TV and it have a UI  for see more details these Shows.
 
 ## Capture
 
